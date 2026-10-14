@@ -1,0 +1,59 @@
+{
+ "seeds": {
+  "mc": 3645138314,
+  "search": 2532668557,
+  "test": 3018516967
+ },
+ "steps": {
+  "world": {
+   "quick": false,
+   "at": "2026-10-15 05:13"
+  },
+  "replay": {
+   "quick": false,
+   "at": "2026-10-15 05:14"
+  },
+  "mc": {
+   "quick": false,
+   "at": "2026-10-15 05:15"
+  },
+  "hunt": {
+   "quick": false,
+   "at": "2026-10-15 05:17"
+  },
+  "estimate": {
+   "quick": false,
+   "at": "2026-10-15 05:22"
+  },
+  "fix": {
+   "quick": false,
+   "at": "2026-10-15 05:25"
+  },
+  "mine": {
+   "quick": false,
+   "at": "2026-10-15 05:52"
+  },
+  "export": {
+   "quick": false,
+   "at": "2026-10-15 05:58"
+  }
+ },
+ "_run": {
+  "mssv": "202603007",
+  "town": "A",
+  "quick": false,
+  "step": "export",
+  "salted": false,
+  "budgets": {
+   "replay_n": 400,
+   "mc_n": 3000,
+   "iters": 8,
+   "per_iter": 300,
+   "final_n": 600,
+   "seeds": 3,
+   "fix_n": 400,
+   "progress_n": 256,
+   "mine_n": 1500
+  }
+ }
+}

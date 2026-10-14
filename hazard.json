@@ -1,0 +1,31 @@
+{
+ "format": "avsim-studio/1",
+ "params": {},
+ "policy": {},
+ "hazards": [
+  {
+   "type": "ped",
+   "x": 113.0,
+   "side": "S",
+   "v": 2.0,
+   "t0": 0.0,
+   "trig": 21.0
+  }
+ ],
+ "space": {
+  "h0_x": [
+   112.0,
+   115.0
+  ],
+  "h0_v": [
+   1.6,
+   2.5
+  ],
+  "h0_trig": [
+   16.0,
+   26.0
+  ]
+ },
+ "exposure": 0.003,
+ "why": "Người đi bộ bước nhanh băng qua đường ngay trước mũi xe buýt đang đỗ (điểm mù che khuất tầm nhìn cảm biến). Tần suất ước lượng 3 trên 1.000 chuyến đi đô thị (0.003 per trip)."
+}
